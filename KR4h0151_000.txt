@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 欽定千叟宴詩
-#+DATE: 2015-08-25 00:42:32.918364
-#+PROPERTY: ID KR4h0151
-#+PROPERTY: BASEEDITION WYG    
